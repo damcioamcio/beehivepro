@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BeehivePro</string>
+    <string name="formular_add_beehive_text_field_placeholder">Type in Beehive ID</string>
+</resources>
